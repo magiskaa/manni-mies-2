@@ -1,7 +1,6 @@
-# Manni Mies
+# Manni Mies 2
 
-This is a 2D platformer game called Manni Mies (means Banana Man), in which you are a soldier who has to 
-kill zombies and collect bananas in order to complete levels and advance further.
+A sequel for the game Manni Mies. This game is developed with Unity.
 
 ## Table of Contents
 
